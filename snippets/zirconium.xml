@@ -23,7 +23,6 @@
   <project path="hardware/lineage/interfaces" name="LineageOS/android_hardware_lineage_interfaces" />
   <project path="hardware/lineage/telephony" name="LineageOS/android_hardware_lineage_telephony" />
   <project path="packages/apps/AppDrawer" name="LineageOS/android_packages_apps_AppDrawer" />
-  <project path="packages/apps/SetupWizard" name="LineageOS/android_packages_apps_SetupWizard" />
   <project path="packages/overlays/Lineage" name="LineageOS/android_packages_overlays_Lineage" />
   
   <!-- CodeAurora additions -->
