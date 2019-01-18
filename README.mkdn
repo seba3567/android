@@ -3,7 +3,7 @@
 -----------------------------------------------------------------------------
 
 <p align="center">
- <img src="https://github.com/Zirconium-Project/android/blob/pie/zirconium.png" > 
+ <img src="https://github.com/Zirconium-Project/android/blob/Stage/zirconium.png" > 
 </p>
 
 -----------------------------------------------------------------------------
