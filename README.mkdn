@@ -9,8 +9,11 @@
 -----------------------------------------------------------------------------
 Credits:
 =======
+
  * [**LineageOS**](https://github.com/LineageOS)
  * [**AOSP**](https://android.googlesource.com)
+ * [**SuperiorOS**](https://github.com/SuperiorOS)
+ * [**Liquid-Remix**](https://github.com/LiquidRemix)
  * [**DirtyUnicorns**](https://github.com/dirtyunicorns)
  * [**ArrowOS**](https://github.com/ArrowOS)
  
