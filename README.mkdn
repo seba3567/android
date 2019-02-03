@@ -1,5 +1,5 @@
 ###ZIRCONIUM PROJECT
-
+======================
 -----------------------------------------------------------------------------
 
 <p align="center">
@@ -16,7 +16,9 @@ Credits:
  * [**Liquid-Remix**](https://github.com/LiquidRemix)
  * [**DirtyUnicorns**](https://github.com/dirtyunicorns)
  * [**ArrowOS**](https://github.com/ArrowOS)
-  * [**PixelExperience**](https://github.com/PixelExperience)
+ * [**MSM-XTENDED**](https://github.com/Xtended-Pie)
+ * [**SereinOS**](https://github.com/Serein-OS)
+ * [**PixelExperience**](https://github.com/PixelExperience)
  
 -----------------------------------------------------------------------------
 
