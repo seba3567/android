@@ -9,6 +9,14 @@
            fetch="https://github.com/Zirconium-Project"
           revision="pie"
            />
+
+   <remote  name="caf"
+            review="codeaurora.org"
+            revision="refs/tags/LA.UM.7.3.r1-06700-sdm845.0"
+            fetch="git://codeaurora.org/quic/la"
+            sync-j="4"
+            sync-c="true"/>
+
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
@@ -72,7 +80,6 @@
   <project path="packages/apps/TvSettings" name="platform/packages/apps/TvSettings" groups="pdk-fs" remote="aosp"/>
   <project path="packages/apps/TV" name="platform/packages/apps/TV" remote="aosp"/>
   <project path="packages/apps/EmergencyInfo" name="platform/packages/apps/EmergencyInfo" groups="pdk-fs" remote="aosp"/>
-  <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" groups="pdk-fs" remote="aosp"/>
   <project path="packages/apps/ManagedProvisioning" name="platform/packages/apps/ManagedProvisioning" groups="pdk-fs" remote="aosp"/>
  
   <!--Packages-Providers-->
@@ -657,6 +664,12 @@
   <project path="tools/tradefederation/core" name="platform/tools/tradefederation" groups="pdk,tradefed" remote="aosp" />
   
   <!--Aosp-projects-end-->
+
+  <!--Caf-projects-->
+  <project path="packages/apps/Music" name="platform/packages/apps/Music" remote="caf" />
+  <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" remote="caf" /> 
+
+  <!--Caf-projects-end-->
 
   <include name="snippets/zirconium.xml" />
 
