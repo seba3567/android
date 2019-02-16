@@ -42,7 +42,7 @@ Start the build:-
 
 ```bash
   . build/envsetup.sh
-  lunch aoszp_<devicecodename>-userdebug
+  lunch zirconium_<devicecodename>-userdebug
   mka bacon 
 ```
 -----------------------------------------------------------------------------
