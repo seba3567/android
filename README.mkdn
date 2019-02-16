@@ -3,13 +3,14 @@
 -----------------------------------------------------------------------------
 
 <p align="center">
- <img src="https://github.com/Zirconium-Project/android/blob/pie/zirconium.png" > 
+ <img src="https://github.com/Zirconium-Project/android/blob/p9.0/zirconium.png" > 
 </p>
 
 -----------------------------------------------------------------------------
 Credits:
 =======
 
+ * [**PixelExperience**](https://github.com/PixelExperience)
  * [**LineageOS**](https://github.com/LineageOS)
  * [**AOSP**](https://android.googlesource.com)
  * [**SuperiorOS**](https://github.com/SuperiorOS)
@@ -18,7 +19,6 @@ Credits:
  * [**ArrowOS**](https://github.com/ArrowOS)
  * [**MSM-XTENDED**](https://github.com/Xtended-Pie)
  * [**SereinOS**](https://github.com/Serein-OS)
- * [**PixelExperience**](https://github.com/PixelExperience)
  
 -----------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ To get started with the building process, you'll need to get familiar with [Git 
 To initialize your local repository, use a command like this:
 
 ```bash
-    repo init -u git://github.com/Zirconium-Project/android -b pie
+    repo init -u git://github.com/Zirconium-Project/android -b p9.0
 ```
 
 Then to sync up:-
