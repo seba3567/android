@@ -60,6 +60,7 @@
 
   <!-- External repos -->
   <project path="external/perfetto" name="external_perfetto" remote="pixel" />
+  <project path="external/skia" name="android_external_skia" remote="zircon" />
   <project path="external/tinycompress" name="external_tinycompress" remote="pixel" />
 
   <!-- Framework repos -->
