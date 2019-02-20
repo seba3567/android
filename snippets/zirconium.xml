@@ -36,7 +36,7 @@
   <project path="frameworks/base" name="frameworks_base" remote="zircon" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="zircon" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="zircon" />
-  <project path="packages/inpuetmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="zircon" />
+  <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="zircon" />
   <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="zircon" revision="pie"/>
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="zircon" />
    <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="zircon" />
