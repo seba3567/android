@@ -59,6 +59,7 @@
   <project path="vendor/qcom/opensource/cryptfs_hw" name="vendor_qcom_opensource_cryptfs_hw" remote="pixel" />
 
   <!-- External repos -->
+  <project path="external/perfetto" name="android_external_perfetto" remote="zircon" />
   <project path="external/skia" name="android_external_skia" remote="zircon" />
   <project path="external/tinycompress" name="external_tinycompress" remote="pixel" />
 
@@ -89,7 +90,7 @@
   <project path="prebuilts/clang/host/linux-x86" name="prebuilts_clang_host_linux-x86" remote="pixel" clone-depth="1" />
 
   <!-- System Repos -->
-  <project path="system/core" name="system_core" remote="pixel" />
+  <project path="system/core" name="system_core" remote="zircon" />
   <project path="system/extras" name="system_extras" remote="pixel" />
   <project path="system/netd" name="system_netd" remote="pixel" />
   <project path="system/sepolicy" name="system_sepolicy" remote="pixel" />
